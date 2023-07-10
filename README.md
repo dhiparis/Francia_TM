@@ -10,27 +10,25 @@ Es teilt sich in drei Unterordner:
 ## 1. Struktur
 ### 1.1 metadata
 Der Ordner *metadata* enthält ein Jupyter-Notebook, das zur Erstellung der
-Visualisierungen von den Metadaten der Zeitschrift verwendet wurde. Die Information wurden mittels 
+Visualisierungen der Metadaten der Zeitschrift verwendet wurde. Die Information wurden mittels 
 eines Webparsers von der Webseite der [Zeitschrift bei der Universität Heidelberg](https://journals.ub.uni-heidelberg.de/index.php/fr/)
-gezogen. Einige Fehler, die wir dabei gefunden haben, wurden bereits an die Universität weitergegeben.
-Zudem haben wir die Autorinnen und Autoren der Francia extrahiert und Analysen über die Geschlechterverteilung
-durchgeführt. Diese finden sich ebenfalls in dem Jupyter-Notebook. Der Datenbestand, auf den es sich bezieht, findet
+gezogen. Einige Fehler, die wir dabei in den Metadaten gefunden haben, wurden bereits an den Universitätsverlag weitergegeben.
+Zudem haben wir die Namen der Autorinnen und Autoren der Francia extrahiert und Analysen über die Geschlechterverteilung
+durchgeführt. Diese finden sich ebenfalls im Jupyter-Notebook. Der Datenbestand, auf den es sich bezieht, findet
 sich zusammen mit dem dazugehörigen Datenreport auf [Zenodo](https://doi.org/10.5281/zenodo.7962977).
 
 ### 1.2 scripts
-In dem Unterordner *scripts* finden sich die - auch in den Jupyter-Notebooks - verwendeten Scripte.
-Sie zum Teil spezifisch für die Auswertung von mallet-topic-modelling hier anhand der Francia geschrieben.
-Eine etwas allgemeinere Version für die Auswertung von mallet-Ergebnissen bei Topic-Modelling findet sich auch in dem GitHub repository
-[*Analysing_Mallet_Results*](https://github.com/Leano1998/Analysing_Mallet_Results). In der zugehörigen [README.md](https://github.com/Leano1998/Analysing_Mallet_Results/blob/main/README.md) finden sich 
-auch Hilfestellungen für die Benutzung.
+Im Unterordner *scripts* finden sich die - auch in den Jupyter-Notebooks - verwendeten Scripte.
+Sie sind zum Teil spezifisch für die Auswertung von mallet-topic-modelling hier anhand der Zeitschrift »Francia« geschrieben.
+Eine etwas allgemeinere Version für die Auswertung von mallet-Ergebnissen bei Topic Modeling findet sich im GitHub repository
+[*Analysing_Mallet_Results*](https://github.com/Leano1998/Analysing_Mallet_Results). In der zugehörigen [README.md](https://github.com/Leano1998/Analysing_Mallet_Results/blob/main/README.md) finden sich Hilfestellungen für die Benutzung.
 
 ### 1.3 topics
-Ähnlich des Ordners für die Metadaten enthält dieser Ordner ein Jupyter-Notebook, in dem sich Visualisierungen für
-die Ergebnisse des Topic-Modellings finden.
+Ähnlich des Ordners für die Metadaten enthält dieser Ordner ein Jupyter-Notebook, in dem sich Visualisierungen der Ergebnisse des Topic Modelings finden.
 
 ## 2. Zugehörige Publikationen
 ### 2.1 Datenreport
-Der Datenreport zu der Publikation und den hierveröffentlichten Scripten
+Der Datenreport zur Publikation und den hier veröffentlichten Scripten
 enthält ergänzende Anmerkungen zu Korpuserstellung, -bereinigung und -auswertung
 der »Francia«. Er enthält außerdem Beschreibung und Erläuterungen zu den auf
 Zenodo publizierten zusätzlichen Dateien sowie eine Auswahl an kommentierten Zahlen,
