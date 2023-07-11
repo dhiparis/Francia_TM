@@ -36,4 +36,4 @@ Statistiken und Visualisierungen. Er findet sich unter folgender DOI: [https://d
 
 ### 2.2 Artikel
 
-*Mareike König, Eike Löhden*, Die »Francia« anders lesen. Was Topic Modeling über Schwerpunkte und Trends der Fachzeitschrift verrät, in: Francia 50 (2023), S. xx–xx.
+*Mareike König, Eike Löhden*, Die »Francia« anders lesen. Was Topic Modeling über Schwerpunkte und Trends der Fachzeitschrift verrät, in: Francia 50 (2023), S. 13–54.
